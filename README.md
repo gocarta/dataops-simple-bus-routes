@@ -12,7 +12,7 @@ The pipeline automatically runs once a day to make sure we are in sync, but the 
 | :--- | :--- | :--- |
 | **id** | `10G` | The unique identifier of the route. |
 | **name** | `Glenwood` | The name of the route. |
-| **color** | `#c0c0c0` | The route color assigned in the GTFS file. |
+| **color** | `#c0c0c0` | The route color assigned in the GTFS file, but it's not an official color. |
 | **stroke** | `#c0c0c0` | This is the same as color.  We added it for compatability with geojson.io and other Web GIS |
 
 ## download links
