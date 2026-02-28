@@ -1,6 +1,9 @@
 # dataops-simple-bus-routes
 > Simple Dataset of Routes for all [CARTA](https://www.gocarta.org/) Buses and Shuttles
 
+<img width="806" height="401" alt="image" src="https://github.com/user-attachments/assets/4e5cd35e-fd16-4ebb-8319-8b3d2f2efb10" />
+
+
 ## background
 Data access is important to us at CARTA and we built this pipeline to make it easier to access data about the various routes of our buses and shuttles.  GTFS is great, but sometimes you just want a simple geojson to display on a web map.  This data pipeline basically pulls official [GTFS](https://gtfs.org/) data hosted by CARTA and then converts it into user-friendly formats.  We'll continue to add more formats, but let us know if you have one you'd like to see.
 
