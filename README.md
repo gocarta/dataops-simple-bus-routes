@@ -22,6 +22,7 @@ The pipeline automatically runs once a day to make sure we are in sync, but the 
 - [metadata](https://gocarta.s3.us-east-2.amazonaws.com/public/data/simple_bus_routes/v1/meta.json)
 - [csv](https://gocarta.s3.us-east-2.amazonaws.com/public/data/simple_bus_routes/v1/data.csv)
 - [geojson (lines)](https://gocarta.s3.us-east-2.amazonaws.com/public/data/simple_bus_routes/v1/data.lines.geojson)
+- [geoparquet](https://gocarta.s3.us-east-2.amazonaws.com/public/data/simple_bus_routes/v1/data.parquet)
 - [json](https://gocarta.s3.us-east-2.amazonaws.com/public/data/simple_bus_routes/v1/data.json)
 - [json lines](https://gocarta.s3.us-east-2.amazonaws.com/public/data/simple_bus_routes/v1/data.jsonl)
 
